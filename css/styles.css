@@ -5,17 +5,17 @@
 
 @font-face {
     font-family: Muller;
-    src: url("/pizza/fonts/MullerRegular.otf");
+    src: url("../fonts/MullerRegular.otf");
 }
 
 @font-face {
     font-family: MullerBold;
-    src: url("/pizza/fonts/MullerBold.otf");
+    src: url("../fonts/MullerBold.otf");
 }
 
 @font-face {
     font-family: MullerExtraBold;
-    src: url("/pizza/fonts/MullerExtraBold.otf");
+    src: url("../fonts/MullerExtraBold.otf");
 }
 
 body {
